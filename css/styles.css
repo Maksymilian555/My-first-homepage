@@ -1,0 +1,19 @@
+.html{
+    box-sizing: border-box;
+}
+*, ::before ::after {
+    box-sizing: inherit;
+}
+
+
+.body {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+
+.white {
+    color: white;
+}

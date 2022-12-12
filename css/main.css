@@ -1,0 +1,42 @@
+
+.main__section__blackBack__yellowText {
+    color: rgb(255, 174, 0);
+}
+
+.main__section__blackBack {
+    color: rgb(255, 255, 255);
+    background-color: rgba(199, 31, 64, 0.884);
+    max-width: max-content;
+    margin: auto;
+}.main__section__tabletableCell {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 7px;
+    text-align: center;
+}
+
+.main__section__table {
+    border-collapse: collapse;
+    font-style: "Lato", sans-serif;
+    width: 100%;
+    overflow-x: auto;
+    margin: 0 auto;
+}
+.main__section__table__tableHeader {
+    color: rgb(255, 255, 255);
+    background-color: rgba(199, 31, 64, 0.884);
+    font-weight: normal;
+}
+
+.main__forFirst {
+    border: 2px, dotted, rgb(113, 113, 255);
+}
+
+.article {
+    padding: 5px;
+}
+
+.main__section__paragraph--friends {
+    margin: 20px;
+    line-height: 1.6;
+}
+
